@@ -1,0 +1,4 @@
+name: Understandingnms
+version: ${project.version}
+main: me.kodysimpson.understandingnms.Understandingnms
+api-version: 1.17
